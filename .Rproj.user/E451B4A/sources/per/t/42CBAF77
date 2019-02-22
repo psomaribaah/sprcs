@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550823361769.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "1733137945",
+    "id" : "42CBAF77",
+    "lastKnownWriteTime" : 1550823741,
+    "last_content_update" : 1550823741343,
+    "path" : "~/Documents/Course Work - MSU/Spring 2019/Spatial/Homework/sprcs/R/sprcs_function.R",
+    "project_path" : "R/sprcs_function.R",
+    "properties" : {
+        "cursorPosition" : "14,41",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
